@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "I took a step toward coding"
-date:       2019-12-22 03:49:58 +0000
+date:       2019-12-21 22:49:58 -0500
 permalink:  i_took_a_step_toward_coding
 ---
 
