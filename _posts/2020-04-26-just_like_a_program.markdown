@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Just Like a Program"
-date:       2020-04-26 12:07:16 +0000
+date:       2020-04-26 08:07:17 -0400
 permalink:  just_like_a_program
 ---
 
