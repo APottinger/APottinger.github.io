@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Blow My Mind"
-date:       2020-06-22 15:27:58 +0000
+date:       2020-06-22 11:27:59 -0400
 permalink:  blow_my_mind
 ---
 
