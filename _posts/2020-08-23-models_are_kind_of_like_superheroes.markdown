@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "Models are kind of like Superheroes"
+title:      "Models Are Kind of Like Superheroes"
 date:       2020-08-23 19:04:59 -0400
 permalink:  models_are_kind_of_like_superheroes
 ---
@@ -87,9 +87,6 @@ def new
 
 Models are awesome and personally my favorite part of the MVC architectural design because they also add validations and authentication through a macro called `has_secure_password` to prevent invalid data from entering the database.
 Earlier, I mentioned my twelve-year old portrait of Superman but as I continue to write this blog, I realize something: Models are kind of like Superheroes. They are a fortress from data that threatens to corrupt and a mediator that keeps the peace between Controllers and Views. Though they can be silently working in the background: sustaining object relationships, validating our forms and in many ways, they can masquerade as a journalist for the Daily Planet, while silently and valiantly defending our data! 
-
-Thanks for reading,
-
 
 Allen Pottinger
 
